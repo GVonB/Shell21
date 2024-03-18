@@ -1,6 +1,14 @@
 # Shell21
 🃏 A recreation of the classic blackjack card game, <b>fully inside the terminal</b> with local <b>profiles</b> to save your stats!
-
+```bash
+┌───────┐┌───────┐┌───────┐┌───────┐┌───────┐┌───────┐┌───────┐
+│ S     ││ H     ││ E     ││ L     ││ L     ││ 2     ││ 1     │
+│       ││       ││       ││       ││       ││       ││       │
+│   ♦   ││   ♥   ││   ♣   ││   ♠   ││   ♦   ││   ♥   ││   ♣   │  // A Terminal-Based Blackjack Game
+│       ││       ││       ││       ││       ││       ││       │
+│     S ││     H ││     E ││     L ││     L ││     2 ││     1 │
+└───────┘└───────┘└───────┘└───────┘└───────┘└───────┘└───────┘
+```
 This project was an interesting experiment that used only terminal output to display cards and allow users to play <b>blackjack</b> (also known as 21).
 
 Users are prompted to enter their name as the key for their local profile. Stats including <b>wins</b>, <b>losses</b>, <b>blackjack</b>, <b>win/loss ratio</b>, <b>games played</b>, and <b>"rank"</b> are stored.
