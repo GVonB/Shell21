@@ -22,5 +22,5 @@ B - W/L Ratio >= .6<br>
 C - W/L Ratio >= .4<br>
 D - W/L Ratio < .4<be>
 
-<h5>Notes</h5>
+<h3>Notes</h3>
 While there are slight variations in blackjack rules across the world, this program requires the dealer to hit on a hand total of 16 or lower. Additionally, they will still hit when the dealer has a "soft" 17 (ace + 6). This may seem like a benefit to the player, but mathematically, hitting on a soft 17 increases the dealer's chance of winning.
