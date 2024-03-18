@@ -15,7 +15,7 @@ Users are prompted to enter their name as the key for their local profile. Stats
 
 <h3>Rank Determination</h3>
 Player Rank is rather arbitrary as it's linearly based on a player's win-loss ratio, starting calculation after 20 games played (5% margins for win/loss ratio).<br><br>
-<i>Ranks</i><br>
+<b>Ranks</b><br>
 S - W/L Ratio >= 1<br>
 A - W/L Ratio >= .8<br>
 B - W/L Ratio >= .6<br>
